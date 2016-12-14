@@ -4,11 +4,11 @@
 《JavaScript权威指南》139.00
 《学习JavaScript数据结构与算法》39.00
 《ppk谈JavaScript》59.00
-《精通JavaScript》69.80
+《精通JavaScript》45.00
 《JavaScript高级程序设计》148.00
 《JavaScript语言精粹》49.00
 《JavaScript设计模式》59.00
-《Secrets of the JavaScript Ninja》383.00
+《JavaScript忍者秘籍》69
 《高性能JavaScript》65.00
 《jQuery基础教程》59.00
 《jQuery实战》88.00
